@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=x
+comment0.target=CO2FootprintV1Tester(double)
+comment1.params=
+comment1.target=void\ CO2EmissionsCalc()
+comment2.params=
+comment2.target=double\ PoundsC()
+comment3.params=
+comment3.target=double\ TonsC()
+numComments=4

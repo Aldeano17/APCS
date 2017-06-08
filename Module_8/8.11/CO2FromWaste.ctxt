@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=numHousehold\ paper\ plastic\ glass\ cans
+comment0.target=CO2FromWaste(int,\ boolean,\ boolean,\ boolean,\ boolean)
+comment1.params=
+comment1.target=void\ calcTotalWasteE()
+comment10.params=
+comment10.target=boolean\ getrecyclingG()
+comment11.params=
+comment11.target=boolean\ getrecyclingC()
+comment2.params=
+comment2.target=double\ getTotalWasteE()
+comment3.params=
+comment3.target=void\ calcWasteDeduction()
+comment4.params=
+comment4.target=double\ getWaste()
+comment5.params=
+comment5.target=void\ cNetWasteDeduction()
+comment6.params=
+comment6.target=double\ getNetWaste()
+comment7.params=
+comment7.target=int\ householdNumber()
+comment8.params=
+comment8.target=boolean\ getrecyclingP()
+comment9.params=
+comment9.target=boolean\ getrecyclingPlas()
+numComments=12
